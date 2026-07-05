@@ -21,10 +21,11 @@ export const projects = [
   {
     id: 2,
     title: "SPDin App",
-    description: "Responsive SPDin App with Framer Motion animation.",
+    description:
+      "A mobile application designed to simplify official travel administration for KPU employees, enabling efficient trip management, document handling, and status tracking.",
     image: spdin,
     category: "Mobile",
-    tech: ["Flutter", "Firebase", "NodeJS"],
+    tech: ["Flutter", "Firebase", "NodeJS", "GetX"],
     github: "https://github.com/mfelixx/spdin.git",
     demo: "#",
     featured: false,
@@ -33,7 +34,8 @@ export const projects = [
   {
     id: 3,
     title: "Angsah",
-    description: "Realtime chatting application using Flutter & Firebase.",
+    description:
+      "A web-based waste subscription platform that connects households with waste collection services, making waste management more organized, convenient, and environmentally friendly.",
     image: angsah,
     category: "Web",
     tech: ["HTML", "CSS"],
@@ -45,7 +47,8 @@ export const projects = [
   {
     id: 4,
     title: "PKQ Unja",
-    description: "Responsive portfolio website with Framer Motion animation.",
+    description:
+      "A web-based Quran memorization management system for Universitas Jambi, enabling students to submit memorization progress, monitor completion, and obtain certificates upon successfully completing the program.",
     image: pkqunja,
     category: "Web",
     tech: ["PHP", "Tailwind", "FrontEnd"],
@@ -57,7 +60,8 @@ export const projects = [
   {
     id: 5,
     title: "KPU SIAGA",
-    description: "Realtime chatting application using Flutter & Firebase.",
+    description:
+      "An Android-based employee attendance application developed for KPU, featuring location-based check-in to ensure attendance can only be recorded within the designated office area.",
     image: kpusiaga,
     category: "Mobile",
     tech: ["Figma", "UI/UX", "Material UI"],

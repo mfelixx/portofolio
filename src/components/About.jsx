@@ -146,7 +146,7 @@ const About = ({ darkMode }) => {
                 whileTap={{
                   scale: 0.96,
                 }}
-                href="https://drive.google.com/file/d/18vMoV29R0-fiGh6fXLHKAFq9tTNmwSl0/view?usp=sharing"
+                href="https://drive.google.com/file/d/1PhT8aVtfm483nPCJSxnsYYNzxpRUTRPr/view?usp=sharing"
                 download
                 className={`flex items-center gap-2 bg-linear-to-r from-violet-600 to-purple-500 text-white px-7 py-3 rounded-xl transition text-base`}
               >
